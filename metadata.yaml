@@ -1,0 +1,35 @@
+_repo: The-Pearl-Story-BookStories-and-Legends-of-Winter-Christmas-and-New-Year-s-Day_34571
+_version: 0.1.0
+contributor:
+  compilers:
+  - agent_name: Skinner, Eleanor L. (Eleanor Louise)
+    alias: Skinner, Eleanor Louise
+    birthdate: 1872
+    gutenberg_agent_id: '37116'
+    url: http://www.gutenberg.org/2009/agents/37116
+  - agent_name: Skinner, Ada M. (Ada Maria)
+    alias: Skinner, Ada Maria
+    birthdate: 1878
+    gutenberg_agent_id: '1679'
+    url: http://www.gutenberg.org/2009/agents/1679
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+- !lcsh 'New Year'
+- !lcsh 'Christmas'
+- !lcsh 'Children''s stories'
+title: 'The Pearl Story Book: Stories and Legends of Winter, Christmas, and New Year''s
+  Day'
+url: http://www.gutenberg.org/ebooks/34571
