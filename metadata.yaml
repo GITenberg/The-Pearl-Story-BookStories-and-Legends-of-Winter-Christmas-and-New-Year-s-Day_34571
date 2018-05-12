@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34571#The-Pearl-Story-BookStories-and-Legends-of-Winter-Christmas-and-New-Year-s-Day
 gutenberg_issued: '2010-12-06'
 gutenberg_type: Text
 identifiers:
